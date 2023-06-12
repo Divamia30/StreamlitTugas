@@ -1,4 +1,6 @@
-streamlit
+
 math
 pandas
 scipy.stats
+numpy
+scipy
